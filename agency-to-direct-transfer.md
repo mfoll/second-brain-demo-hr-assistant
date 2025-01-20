@@ -1,0 +1,19 @@
+---
+type: Concept
+_organized: true
+---
+
+# Agency-To-Direct Transfer
+
+When a worker supplied by the staffing agency is taken on by Pellmore as a direct employee, usually after a good peak season. It matters in my work because the same person exists in two places at once for a short time: the agency's records, and our [[hireloom]] and [[talvento]] records.
+
+## What it means in practice
+
+- The worker becomes a new starter in our systems, with the full pre-start checks, even though they already know the site. The right to work check is done again by onboarding; we do not rely on the agency's copy.
+- The agency end date and our start date must not overlap, or the person is paid twice for the same days. Before the weekly cut-off I confirm the agency end date with the agency consultant ([[enter-new-starters-before-weekly-cutoff]]).
+- Their agency service does not count towards our probation. They start the standard probation for their contract.
+- Supply agreements usually say what happens when a worker moves to the client within a set period. For 2026 that is in the contract behind the [[agency-supply-agreement-peak-2026]], held by Procurement; any cost is a Warehousing budget question, not mine.
+
+## Why it comes up
+
+Hub managers like transfers because they already know the person. Worth checking how transfers are counted before reading the 60/40 split in the [[agency-versus-direct-hiring-comparison]].

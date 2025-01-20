@@ -1,0 +1,30 @@
+---
+type: Topic
+belongs_to: "[[exploratory-reading]]"
+related_to:
+  - "[[ai-cv-screening-pilot]]"
+  - "[[data-protection-in-hr]]"
+  - "[[candidate-experience]]"
+_organized: true
+---
+
+# AI In Recruitment
+
+Exploration cluster for reading on AI and algorithms in hiring: CV ranking, AI interviews, large language models drafting or scoring, and bias. It sits under [[exploratory-reading]] until [[ai-cv-screening-pilot]] becomes a real Project; then the cluster moves under it.
+
+## Why I am reading this
+
+[[marek-zielinski]] would like to switch on Hireloom's ranking module for high-volume warehouse roles. [[kasia-wrobel]] has asked for a full DPIA first. I will be the one running any test, so I want to understand what can go wrong before someone asks me to configure it.
+
+## Reading so far
+
+- [[song-2026-algorithmic-bias-in-hr-recruitment-systems]]: a bias-mitigation framework, tested on synthetic data only.
+- [[tripathi-2026-llms-in-hiring-scoping-review]]: lots of efficiency claims, little field evidence that controls work.
+- [[zhao-2026-ai-interviews-and-applicant-perceptions]]: candidates trust AI interviews less.
+- [[whelpley-2026-selection-tests-and-autistic-applicants]]: "objective" tests can still disadvantage some groups.
+- [[algorithmic-bias-wikipedia]] and [[applicant-tracking-system-wikipedia]] for the basics.
+- [[automated-decision-making]] (Concept) and my working notes in [[how-hireloom-ai-ranking-would-work]].
+
+## Where I stand
+
+[[ai-ranking-is-not-worth-it-for-warehouse-roles]], at medium confidence.
