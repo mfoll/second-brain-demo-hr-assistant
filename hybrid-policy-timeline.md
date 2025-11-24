@@ -1,0 +1,38 @@
+---
+type: Note
+belongs_to: "[[hybrid-work-policy-update]]"
+related_to:
+  - "[[hybrid-work]]"
+  - "[[hybrid-work-policy-v2]]"
+  - "[[anchor-days]]"
+_organized: true
+---
+
+# Hybrid Policy Timeline
+
+Chronology of the hybrid work policy from consultation to v2, for anyone asking "what is the rule now and why did it change?".
+
+| Date | What happened |
+| --- | --- |
+| 2025-11-03 | Consultation starts ([[hybrid-policy-consultation]]) |
+| 2025-11-19 | Consultation paper to the Employee Forum ([[employee-forum-hybrid-consultation-paper]]) |
+| 2025-11-26, 2025-12-17, 2026-01-21 | Three Forum sessions ([[employee-forum-hybrid-consultation-2026-01-21]]) |
+| 2026-02-06 | 412 comments summarised ([[hybrid-consultation-comment-summary]]) |
+| 2026-02-24 | Executive Committee: three fixed anchor days, Tuesday to Thursday ([[exec-committee-hybrid-decision-2026-02-24]]) |
+| 2026-03-20 | Policy v1 published ([[hybrid-work-policy-v1]]) |
+| 2026-03-25, 2026-03-27 | Manager guide and 26-question FAQ live |
+| 2026-04-01 | Anchor days start; desks hit 104% ([[hybrid-policy-launch-2026-04-01]]) |
+| April 2026 | Hybrid questions 23% of helpdesk tickets |
+| 2026-04-28 | Helpdesk ticket review ([[helpdesk-hybrid-ticket-review-2026-04-28]]) |
+| 2026-06-15 to 2026-06-24 | Pulsewright pulse check on hybrid work ([[hybrid-pulse-check-june-2026]]) |
+| 2026-06-24 | Review meeting settles options ([[hybrid-review-meeting-2026-06-24]]) |
+| 2026-07-15 | People Committee: only Tuesday fixed, teams choose two days ([[people-committee-2026-07-15]]) |
+| 2026-07-22 | Change announced to staff |
+| 2026-08-24 | Policy v2, FAQ v2 and manager guide v2 published |
+| 2026-09-01 | v2 in force ([[hybrid-policy-v2-in-force-2026-09-01]]) |
+| September 2026 | Hybrid questions 9% of tickets |
+| 2026-10-30 | First quarterly attendance report due ([[anchor-day-attendance-report-q3-2026]]) |
+
+## In one sentence
+
+Three office days a week throughout; what changed is that only Tuesday is now fixed for everyone, because three fixed days overfilled Head Office and confused part-time staff.
