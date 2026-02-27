@@ -1,0 +1,26 @@
+---
+type: Source
+source_type: Internal knowledge base article
+date_accessed: 2026-02-02
+belongs_to: "[[knowledge-base-rebuild]]"
+related_to:
+  - "[[knowledge-base-style-guide]]"
+  - "[[chatbot-test-run-2025-10-22]]"
+_organized: true
+---
+
+# KB Article: Can I Carry Over Holiday?
+
+One rebuilt knowledge base article, kept here as the worked example of the [[knowledge-base-style-guide]]. Published 2026-02-02; owner [[priyanka-desai]]; review date 2026-12-01.
+
+## Summary
+
+Answers in two sentences: up to five days of annual leave can be carried into the next leave year with the manager's agreement (pro rata for part-time staff), to be used by 30 September, the end of the first half of the April to March leave year; more only where leave could not be taken because of sickness or family leave, which the manager arranges with HR. Then a section for part-time and compressed-hours staff (carry-over in hours, converted to days in [[talvento]]), and links to the leave policy.
+
+## Why It Matters
+
+The old version said ten days, from a 2022 rule, and the chatbot repeated it confidently in the October 2025 test ([[chatbot-test-run-2025-10-22]]). Carry-over for compressed hours also became a recurring ticket theme after the Talvento conversion ([[uat-defect-review-2026-03-11]]).
+
+## Source Location
+
+Deskwell knowledge base, "Can I carry over holiday?".
