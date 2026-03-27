@@ -1,0 +1,37 @@
+---
+type: Opinion
+status: Active
+confidence: Medium
+belongs_to: "[[engagement-survey-2026]]"
+related_to:
+  - "[[should-the-survey-reporting-threshold-be-lowered-to-5]]"
+  - "[[minimum-reporting-group]]"
+  - "[[sanjay-mehrotra]]"
+_organized: true
+---
+
+# Threshold Of 10 Is Right For Now
+
+## Stance
+
+The minimum reporting group of 10 is right for 2026 and probably for 2027. But the Steering Group treated it as a privacy decision only, and it is also a decision about who gets to act on their results. Sanjay is right about that part, and the answer to it is facilitation, not a lower number.
+
+## Scope
+
+The engagement survey and pulse checks. Not other reporting, where the same logic applies but the trade-offs differ.
+
+## Why I Think This
+
+- At 5, with filters, people at small depots can identify each other. [[gabriel-santoro]] said members did not trust the 2024 anonymity, and the survey only works if they do.
+- Response went up from 64% to 71% in 2026. I cannot show the threshold caused that, but it did not hurt.
+- The Hub East session showed that site results can become a depot plan when a team gets to argue with them ([[action-planning-workshop-hub-east-2026-07-08]]).
+- Option 2 in the [[should-the-survey-reporting-threshold-be-lowered-to-5|options paper]] (8 for scores, 10 for comments) is defensible and I would not argue against it.
+
+## What Would Change My Mind
+
+- If roll-up depots' plans turn out to be clearly worse at the 3-month check than own-results departments.
+- If response at small depots fell in 2026, which would suggest people disengaged when they lost their own results.
+
+## Implications
+
+I will not say this at the Steering Group as a recommendation; I will put the evidence in the options paper and let them decide. I said as much to [[deborah-okwuosa]] when she asked what I thought.
