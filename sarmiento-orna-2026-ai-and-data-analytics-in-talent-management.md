@@ -1,0 +1,34 @@
+---
+type: Source
+source_type: Scientific paper
+url: https://doi.org/10.3389/frai.2026.1793296
+doi: 10.3389/frai.2026.1793296
+pmid: 42222842
+licence: CC BY
+date_accessed: 2026-09-14
+belongs_to: "[[people-analytics]]"
+related_to:
+  - "[[people-analytics-reading-notes]]"
+  - "[[can-we-predict-warehouse-turnover-from-talvento-data]]"
+_organized: true
+---
+
+# Artificial intelligence and data analytics in human talent management
+
+Sarmiento Orna DA, Apolo-Silva MF, Solís-Naranjo AP, et al. *Frontiers in Artificial Intelligence*, 2026. Systematic review.
+
+## Summary
+
+A bibliometric and qualitative review of research from 2015 to 2025 on AI and data analytics in talent management. From 137 records retrieved in two databases, 82 documents were analysed, with the 30 most cited read in detail. Output grew sharply after 2020. The authors find four thematic clusters, including people analytics and process optimisation, predictive models and machine learning, and data governance and ethics, and describe the literature as fragmented between technical, managerial and ethical perspectives.
+
+## Why It Matters
+
+My first map of the field when I started the [[people-analytics]] cluster. It confirmed that the governance and ethics strand is treated as its own area, which is where Pellmore would have to start before any predictive work ([[can-we-predict-warehouse-turnover-from-talvento-data]]).
+
+## Caveats
+
+A map of publications, not evidence that anything works.
+
+## Source Links
+
+- [DOI 10.3389/frai.2026.1793296](https://doi.org/10.3389/frai.2026.1793296), PMID 42222842, open access (CC BY).
