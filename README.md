@@ -12,6 +12,8 @@ A demo Second Brain: about 530 linked Markdown notes holding the working memory 
 
 ![Castellane HR Brain in Brain Graph, coloured by the Project or Responsibility each note rolls up to](assets/castellane-hr-brain-graph.png)
 
+**[Explore this vault in the live demo](https://mfoll.github.io/brain-graph-demo/?vault=castellane-hr-brain)**: its map in Brain Graph, in your browser, with nothing to install.
+
 > [!warning]
 > Everything about the company is fictional: Pellmore Logistics Group, every person, its sites, committees, HR systems and vendors, the Guild of People Practice, every policy, survey result and figure. Any resemblance to real people or organisations is accidental. Only the Sources marked as encyclopedia articles, scientific papers or documentation are real.
 
