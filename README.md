@@ -8,7 +8,7 @@ surface_for:
 
 # Castellane HR Brain
 
-A demo Second Brain: about 530 linked Markdown notes holding the working memory of a fictional HR assistant in a large logistics group. Clone it, open the folder, and explore what a vault looks like after nearly two years of daily use: projects, decisions, meetings, people, sources, open questions, and the links between them.
+A demo Second Brain: about 530 linked Markdown notes holding the working memory of a fictional HR assistant in a large logistics group. Clone it, open the folder, and explore what a vault looks like after two years of daily use: projects, decisions, meetings, people, sources, open questions, and the links between them.
 
 ![Castellane HR Brain in Brain Graph, coloured by the Project or Responsibility each note rolls up to](assets/castellane-hr-brain-graph.png)
 
@@ -27,11 +27,11 @@ The vault was deployed from the [Second Brain template](https://github.com/mfoll
 | Memory | About 180 Sources, 50 Events, 35 Questions, 30 Concepts, 15 Opinions, 14 Recaps, 40 people. |
 | Real material | About 70 Sources are real public material: Wikipedia articles on HR concepts and data protection, open-access organisational psychology papers cited with DOI and PMID, and public software documentation, summarised in our own words. Their "Why It Matters" sections describe how the fictional HR team uses them. |
 | Operations | `AGENTS.md`, Type notes, Procedures, Skills and ADRs from the template, unchanged except for the deployment steps. |
-| History | Git history from January 2025 to October 2026, one commit per month of captures. |
+| History | Git history from January 2025 to October 2026, one commit for each month that had captures. |
 
 ## Open it
 
-- **Any Markdown editor.** Clone the repository and open the folder. Start from [[vault]].
+- **Any Markdown editor.** Clone the repository and open the folder; notes sit flat at the root by design. Start from [vault](vault.md).
 - **[Tolaria](https://tolaria.md/).** Open the folder as a vault for typed sidebars, relationship panels and saved views.
 - **[Brain Graph](https://github.com/mfoll/brain-graph).** See the whole vault as a map coloured by project:
 
@@ -39,7 +39,7 @@ The vault was deployed from the [Second Brain template](https://github.com/mfoll
   npx github:mfoll/brain-graph path/to/second-brain-demo-hr-assistant
   ```
 
-- **A coding agent.** Run Claude Code, Codex or Gemini CLI in the folder. They read [[AGENTS]] (through `CLAUDE.md` and `GEMINI.md` where needed) and follow the vault's Procedures.
+- **A coding agent.** Run Claude Code, Codex or Gemini CLI in the folder. They read [AGENTS](AGENTS.md) (through `CLAUDE.md` and `GEMINI.md` where needed) and follow the vault's Procedures.
 
 ## Try this
 
@@ -47,19 +47,19 @@ Each question has a known answer in the vault, so you can check what an agent fi
 
 | Ask | Where the answer lives |
 | --- | --- |
-| What is our hybrid work rule now, and why did it change? | Three fixed office days were decided in February 2026 and partly revised in July. See [[hybrid-policy-review]] and [[people-committee-2026-07-15]]. |
-| Why can't small depots see their own engagement survey results? | A minimum reporting group set on data protection advice, with one HR Business Partner still disagreeing. See [[survey-reporting-threshold-decision-2026-06-10]]. |
-| Why did Talvento go live in June instead of April? | Testing found absence balances converted wrongly. See [[uat-defect-review-2026-03-11]]. |
-| When will payroll stop using Staffora? | Still open. See [[when-should-payroll-cut-over-to-talvento]]. |
-| Why did we stop the HR chatbot? | The answers were only as good as the articles behind them. See [[helpdesk-chatbot-trial]] and [[knowledge-base-rebuild]]. |
-| What data can my diploma research project use? | Aggregate ticket counts only. See [[diploma-research-project]] and [[record-hr-cases-without-personal-data]]. |
+| What is our hybrid work rule now, and why did it change? | Three fixed office days were decided in February 2026 and partly revised in July. See [hybrid-policy-review](hybrid-policy-review.md) and [people-committee-2026-07-15](people-committee-2026-07-15.md). |
+| Why can't small depots see their own engagement survey results? | A minimum reporting group set on data protection advice, with one HR Business Partner still disagreeing. See [survey-reporting-threshold-decision-2026-06-10](survey-reporting-threshold-decision-2026-06-10.md). |
+| Why did Talvento go live in June instead of April? | Testing found absence balances converted wrongly. See [uat-defect-review-2026-03-11](uat-defect-review-2026-03-11.md). |
+| When will payroll stop using Staffora? | Still open. See [when-should-payroll-cut-over-to-talvento](when-should-payroll-cut-over-to-talvento.md). |
+| Why did we stop the HR chatbot? | The answers were only as good as the articles behind them. See [helpdesk-chatbot-trial](helpdesk-chatbot-trial.md) and [knowledge-base-rebuild](knowledge-base-rebuild.md). |
+| What data can my diploma research project use? | Aggregate ticket counts only. See [diploma-research-project](diploma-research-project.md) and [record-hr-cases-without-personal-data](record-hr-cases-without-personal-data.md). |
 
 Workflows to try with an agent:
 
 - **Resume a project:** "Resume the Warehouse Peak Hiring project."
-- **Process the Inbox:** about eight raw captures from the last weeks of October 2026 have `_organized: false`; each has an obvious home.
+- **Process the Inbox:** about ten raw captures from the last weeks of October 2026 have `_organized: false`; each has an obvious home.
 - **Ingest a source:** give any Wikipedia article or open-access paper on onboarding, hybrid work or employee engagement and ask where it belongs.
-- **Lint the vault:** ask an agent to run the lint audits and explain each finding.
+- **Lint the vault:** the audits should report one link to a missing note and one Concept that belongs to nothing, both left in on purpose. Informational lines, such as external contacts without a parent, are expected.
 
 ## Scope and privacy
 
@@ -67,7 +67,7 @@ The fictional HR assistant's recruitment coordination, onboarding, helpdesk, HR 
 
 ## Template updates
 
-The vault was deployed from the template on 2026-10-23. Later template improvements can be ported with [[upgrade-existing-vault-from-template|Upgrade an Existing Vault From the Template]], as a reviewed change: an agent proposes each port, and a person approves it. Never run it unattended. A vault in use is expected to differ from the template on purpose, in its ADRs, Procedures, Skills and instructions.
+The vault was deployed from the template on 2026-10-23. Later template improvements can be brought in with [Upgrade an Existing Vault From the Template](upgrade-existing-vault-from-template.md), as a reviewed change: an agent proposes each change, and a person approves it. Never run it unattended. A vault in use is expected to differ from the template on purpose, in its ADRs, Procedures, Skills and instructions.
 
 ## How it was made
 
@@ -75,7 +75,7 @@ An AI agent drafted the world specification (the company, people, projects, time
 
 ## Storage and backup
 
-Git history in this repository. A demo that edits notes can be reset with `git checkout .` and `git clean -fd`.
+The notes are plain files, and their history is this Git repository. To undo edits made while trying the demo, run `git checkout .`; `git clean -n` lists any new files, which `git clean -f` would delete.
 
 ## More example vaults
 
